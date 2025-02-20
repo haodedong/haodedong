@@ -1,16 +1,32 @@
-## Hi there 👋
+# 你好 👋，我是 Haodedong！
 
-<!--
-**haodedong/haodedong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名热爱编程的 Java 开发者，不断探索新技术和提升自己的技能。以下是我的一些信息：
 
-Here are some ideas to get you started:
+## 🔭 我目前正在做的事情
+- 构建和参与开源项目。
+- 探索微服务和云计算的最新趋势。
+- 撰写技术博客和教程，分享我的知识。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 我正在学习的内容
+- 先进的 Java 框架，如 Spring Boot 和 Spring Cloud。
+- 消息代理和流处理平台，如 Apache Kafka。
+- 使用 MySQL 和 Redis 进行数据库管理和优化。
+
+## 👯 我希望能合作的项目
+- 对社区产生积极影响的开源项目。
+- 创新的初创公司和科技公司。
+- 教育内容和编程训练营。
+
+## 💬 可以问我关于
+- Java 开发（Spring 框架，Spring Boot 等）
+- 微服务架构和最佳实践。
+- 使用 MySQL 和 Redis 进行数据库管理。
+
+## 📫 如何联系我
+- 邮箱: haodedong1996@163.com
+- GitHub: [haodedong](https://github.com/haodedong)
+
+## ⚡ 有趣的事实
+在不编程的时候，我喜欢徒步旅行和探索自然。我还是科幻电影和书籍的忠实粉丝。
+
+感谢你访问我的个人资料！如果你想联系或在有趣的项目上合作，请随时联系我。
